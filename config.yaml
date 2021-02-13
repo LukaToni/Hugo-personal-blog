@@ -5,8 +5,8 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: John Doe
+    tagline: Traveling
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
     background: dark
@@ -17,9 +17,6 @@ params:
         style: link
       - label: Blog
         url: /blog/
-        style: link
-      - label: Style Guide
-        url: /style-guide/
         style: link
       - label: About
         url: /about/
@@ -56,11 +53,7 @@ params:
         new_window: true
   footer:
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      &copy; Stackbit. All rights reserved.
 taxonomies:
   stub: stub
 disableKinds:
